@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on teams
 - 📫 How to reach me: (teams/email)
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: i bomb toilet
+- ⚡ Fun fact: toilet
 
 <!---
 Ryan30079/Ryan30079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
